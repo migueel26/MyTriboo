@@ -8,3 +8,5 @@ Para usos de desarrollo y ejecución local se mantiene la siguiente nota técnic
 Para el correcto funcionamiento del Main con los assert es necesario activar "-ea" en las opciones VM del Run/Debug Configuration (en IntelliJ)
 
 ```
+
+Para acceder al mockup de la web ver el siguiente enlace: [text](https://juliaa64.github.io/MyTriboo/index.html)
